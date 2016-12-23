@@ -1,0 +1,14 @@
+<!-- accountmanager-overlay.xul -->
+<!ENTITY aruonet.localfolder.btdossier "Ny lokal mapp">
+<!ENTITY aruonet.localfolder.btdossier.racc "m">
+
+<!-- localfolder.xul -->
+<!ENTITY aruonet.localfolder.titre "Lägg till en lokal mapp">
+<!ENTITY aruonet.localfolder.btValider "OK">
+<!ENTITY aruonet.localfolder.btQuitter "Avbryt">
+<!ENTITY aruonet.localfolder.bandeau.titre "Konfiguration av lokal mapp">
+<!ENTITY aruonet.localfolder.libnom "Namn:">
+<!ENTITY aruonet.localfolder.libchemin "Rotmapp:">
+<!ENTITY aruonet.localfolder.chemin.btlib "Bläddra">
+<!ENTITY aruonet.localfolder.chemin.btlibcle "B">
+<!ENTITY aruonet.localfolder.chemin.browsertitle "Välj en mapp">

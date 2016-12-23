@@ -1,0 +1,14 @@
+<!-- accountmanager-overlay.xul -->
+<!ENTITY aruonet.localfolder.btdossier "Neuer lokaler Ordner">
+<!ENTITY aruonet.localfolder.btdossier.racc "o">
+
+<!-- localfolder.xul -->
+<!ENTITY aruonet.localfolder.titre "Zusatz zum lokalen Ordner">
+<!ENTITY aruonet.localfolder.btValider "OK">
+<!ENTITY aruonet.localfolder.btQuitter "Abbrechen">
+<!ENTITY aruonet.localfolder.bandeau.titre "Lokale Ordner Einstellungen">
+<!ENTITY aruonet.localfolder.libnom "Name:">
+<!ENTITY aruonet.localfolder.libchemin "Verzeichnis:">
+<!ENTITY aruonet.localfolder.chemin.btlib "Öffnen">
+<!ENTITY aruonet.localfolder.chemin.btlibcle "Ö">
+<!ENTITY aruonet.localfolder.chemin.browsertitle "Wähle einen Ordner">

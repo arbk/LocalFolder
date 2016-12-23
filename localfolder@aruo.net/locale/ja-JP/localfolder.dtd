@@ -1,0 +1,14 @@
+<!-- accountmanager-overlay.xul -->
+<!ENTITY aruonet.localfolder.btdossier "新しいローカルフォルダ">
+<!ENTITY aruonet.localfolder.btdossier.racc "f">
+
+<!-- localfolder.xul -->
+<!ENTITY aruonet.localfolder.titre "ローカルフォルダの追加">
+<!ENTITY aruonet.localfolder.btValider "OK">
+<!ENTITY aruonet.localfolder.btQuitter "キャンセル">
+<!ENTITY aruonet.localfolder.bandeau.titre "ローカルフォルダの設定">
+<!ENTITY aruonet.localfolder.libnom "名前:">
+<!ENTITY aruonet.localfolder.libchemin "ディレクトリ:">
+<!ENTITY aruonet.localfolder.chemin.btlib "参照">
+<!ENTITY aruonet.localfolder.chemin.btlibcle "B">
+<!ENTITY aruonet.localfolder.chemin.browsertitle "フォルダを選択">

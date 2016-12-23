@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="chrome://localfolder/skin/localfolder.css" type="text/css"?>
+
+<!DOCTYPE window SYSTEM "chrome://localfolder/locale/localfolder.dtd">
+
+<window id="localfolder" 
+ title="&aruonet.localfolder.titre;" 
+ xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul" 
+ onload="aruonet.localfolder.initDlg();">
+
+ <script type="application/x-javascript" src="chrome://localfolder/content/localfolder.js"/>
+ <script type="application/x-javascript" src="chrome://localfolder/content/trace.js"/>
+
+ <keyset id="keys">
+  <key keycode="VK_ESCAPE" oncommand="window.close();"/>
+ </keyset>
+
+ <hbox id="localfolder_bandeau">
+  <description id="localfolder_bandeau_titre">&aruonet.localfolder.bandeau.titre;</description>
+ </hbox>
+
+ <menuseparator/>
+
+ <vbox flex="1" class="localfolder-zone">
+  <vbox>
+   <hbox flex="1" align="center" style="margin-bottom: 20px">
+    <label value="&aruonet.localfolder.libnom;"/>
+    <textbox id="localfoldernom" flex="1"/>
+   </hbox>
+   <label value="&aruonet.localfolder.libchemin;"/>
+   <hbox flex="1" style="margin-bottom:15px">
+    <textbox id="localfolderchemin" readonly="true" flex="1"/>
+    <button label="&aruonet.localfolder.chemin.btlib;" 
+     id="localfoldercheminbtsel" 
+     browsertitle="&aruonet.localfolder.chemin.browsertitle;" 
+     accesskey="&aruonet.localfolder.chemin.btlibcle;" 
+     oncommand="aruonet.localfolder.SelectChemin()"/>
+   </hbox>
+  </vbox>
+ </vbox>
+
+ <menuseparator/>
+
+ <hbox align="right">
+  <button id="localfolder.btQuitter" 
+   label="&aruonet.localfolder.btQuitter;" 
+   oncommand="close();"/>
+  <button id="localfolder.btValider" 
+   label="&aruonet.localfolder.btValider;" 
+   oncommand="aruonet.localfolder.btCreeDossierLocal();"/>
+ </hbox>
+
+</window>

@@ -1,0 +1,13 @@
+<!-- accountmanager-overlay.xul -->
+<!ENTITY aruonet.localfolder.btdossier "Nueva carpeta local">
+<!ENTITY aruonet.localfolder.btdossier.racc "f">
+<!-- localfolder.xul -->
+<!ENTITY aruonet.localfolder.titre "Añadir una carpeta local">
+<!ENTITY aruonet.localfolder.btValider "Aceptar">
+<!ENTITY aruonet.localfolder.btQuitter "Cancelar">
+<!ENTITY aruonet.localfolder.bandeau.titre "Configuración de carpeta local">
+<!ENTITY aruonet.localfolder.libnom "Nombre:">
+<!ENTITY aruonet.localfolder.libchemin "Directorio:">
+<!ENTITY aruonet.localfolder.chemin.btlib "Examinar">
+<!ENTITY aruonet.localfolder.chemin.btlibcle "B">
+<!ENTITY aruonet.localfolder.chemin.browsertitle "Elegir una carpeta">

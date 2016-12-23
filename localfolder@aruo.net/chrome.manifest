@@ -1,0 +1,14 @@
+content localfolder content/
+
+skin localfolder classic/1.0 skin/classic/
+
+locale localfolder en locale/en-US/
+locale localfolder ja locale/ja-JP/
+locale localfolder fr locale/fr-FR/
+locale localfolder it locale/it-IT/
+locale localfolder sv locale/sv-SE/
+locale localfolder de locale/de-DE/
+locale localfolder zh locale/zh-CN/
+locale localfolder es locale/es-ES/
+
+overlay chrome://messenger/content/AccountManager.xul chrome://localfolder/content/accountmanager-overlay.xul

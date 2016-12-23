@@ -1,0 +1,14 @@
+<!-- accountmanager-overlay.xul -->
+<!ENTITY aruonet.localfolder.btdossier "Ajouter un dossier local">
+<!ENTITY aruonet.localfolder.btdossier.racc "d">
+
+<!-- localfolder.xul -->
+<!ENTITY aruonet.localfolder.titre "Ajout d&#039;un dossier local">
+<!ENTITY aruonet.localfolder.btValider "Valider">
+<!ENTITY aruonet.localfolder.btQuitter "Annuler">
+<!ENTITY aruonet.localfolder.bandeau.titre "Param&#233;trage du nouveau dossier local">
+<!ENTITY aruonet.localfolder.libnom "Nom :">
+<!ENTITY aruonet.localfolder.libchemin "Emplacement :">
+<!ENTITY aruonet.localfolder.chemin.btlib "S&#233;lectionner...">
+<!ENTITY aruonet.localfolder.chemin.btlibcle "S">
+<!ENTITY aruonet.localfolder.chemin.browsertitle "S&#233;lectionner un dossier">

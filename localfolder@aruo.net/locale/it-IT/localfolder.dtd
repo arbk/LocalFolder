@@ -1,0 +1,14 @@
+<!-- accountmanager-overlay.xul -->
+<!ENTITY aruonet.localfolder.btdossier "Nuova cartella locale">
+<!ENTITY aruonet.localfolder.btdossier.racc "c">
+
+<!-- localfolder.xul -->
+<!ENTITY aruonet.localfolder.titre "Cartella locale aggiuntiva">
+<!ENTITY aruonet.localfolder.btValider "Ok">
+<!ENTITY aruonet.localfolder.btQuitter "Annulla">
+<!ENTITY aruonet.localfolder.bandeau.titre "Configurazione cartella locale">
+<!ENTITY aruonet.localfolder.libnom "Nome:">
+<!ENTITY aruonet.localfolder.libchemin "Cartella:">
+<!ENTITY aruonet.localfolder.chemin.btlib "Sfoglia">
+<!ENTITY aruonet.localfolder.chemin.btlibcle "s">
+<!ENTITY aruonet.localfolder.chemin.browsertitle "Seleziona una cartella">

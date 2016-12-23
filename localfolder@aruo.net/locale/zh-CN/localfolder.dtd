@@ -1,0 +1,11 @@
+<!ENTITY aruonet.localfolder.btdossier "新建本地文件夹">
+<!ENTITY aruonet.localfolder.btdossier.racc "f">
+<!ENTITY aruonet.localfolder.titre "增加本地文件夹">
+<!ENTITY aruonet.localfolder.btValider "确定">
+<!ENTITY aruonet.localfolder.btQuitter "取消">
+<!ENTITY aruonet.localfolder.bandeau.titre "本地文件夹配置">
+<!ENTITY aruonet.localfolder.libnom "名称：">
+<!ENTITY aruonet.localfolder.libchemin "目录：">
+<!ENTITY aruonet.localfolder.chemin.btlib "浏览">
+<!ENTITY aruonet.localfolder.chemin.btlibcle "B">
+<!ENTITY aruonet.localfolder.chemin.browsertitle "选择一个文件夹">
